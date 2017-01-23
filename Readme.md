@@ -4,7 +4,7 @@ This is a compiler for the C programming language using Lex and Yacc.
 
 ## Installation
 
-To compile this compiler, execute the command `make`
+To compile this compiler, execute the command `make`.
 
 ## Tests
 
